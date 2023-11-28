@@ -1,10 +1,10 @@
 {
 	"data": [
 		{
-			"title": "INDIA vs AUSTRALIA",
+			"title": "SPORTS 18 HD",
 			"quality": "360p",
-			"language": "Hindi",
-			"url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2003/master_360p.m3u8"
+			"language": "English",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_98838_eng=98800-video=250000.m3u8"
 		},
                 {
 			"title": "INDIA vs AUSTRALIA",
