@@ -1,14 +1,14 @@
 {
 	"data": [
 		{
-			"title": "One Piece Episode 1",
-			"quality": "360",
-			"url": "https://wkba.1antiphonon.online/_v1/12a3c523fb105800ed8c394685aeeb0bc12ea95c1df8b8fb00027baea93ece832257df1a4b6125fcfa38c35da05dee86a6d39242d76ad3eadbbde668052ef69263904aa75d4fef0f16c1f0ee/h/list;15a38722fd10584aae8c6f1eceb9eb10903ca9445cb9bfb14b4d68af.m3u8"
+			"title": "INDIA vs AUSTRALIA",
+			"quality": "360p",
+			"url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2003/master_360p.m3u8"
 		},
         {
-			"title": "One Piece Episode 2",
-			"quality": "360",
-			"url": "https://dvwo.2freethinking.online/_v1/12a3c523f8105800ed8c394685aeeb0bc52ead5c07b8bbf942037baea93ece832257df1a4b6125fcfa38c35da05dee86a6d39242d76ad3eadbbaa43d5777f19263974aa6590db85f4dc1f6/h/list;15a38722fd10584aae8c6f1eceb9eb10903ca9445cb9bfb7494168ae.m3u8"
+			"title": "INDIA vs AUSTRALIA",
+			"quality": "480p",
+		        "url": "https://prod-ent-live-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2003/master_480p.m3u8"
 		}
 	]
 }
