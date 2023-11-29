@@ -1,6 +1,12 @@
 {
 	"data": [
 		{
+			"title": "Astro Cricket",
+			"quality": "Unknown",
+			"language": "English",
+			"url": "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd"
+		},
+		{
 			"title": "SPORTS 18 HD",
 			"quality": "360p",
 			"language": "English",
