@@ -1,13 +1,11 @@
 {
 	"data": [
 		{
-			"title": "Astro Cricket",
-			"quality": "Unknown",
-			"language": "English",
-			"mediaType": "mpd",
-			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
-			"keyId": "6a9e4204f3f8577ebf6e79b3b18573f8",
-			"key": "a5f09bc31dbac3438c60745535aa843e"
+			"title": "Khabrien Abhi Tak",
+			"quality": "480p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"url": "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"
 		},
 		{
 			"title": "SPORTS 18 HD",
