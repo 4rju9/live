@@ -95,12 +95,44 @@
 	],
 	"news": [
 		{
-			"title": "NDTV INDIA",
+			"title": "NDTV India Live",
 			"quality": "Multi",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "https://cdn.ndtv.com/common/images/ogndtv.png",
 			"url": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"
+		},
+		{
+			"title": "News18 India Live",
+			"quality": "260p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "https://m.media-amazon.com/images/I/61ixvBDobxL.jpg",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB-audio_33636_eng=33600-video=148000.m3u8"
+		},
+		{
+			"title": "News18 India Live",
+			"quality": "480p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "https://m.media-amazon.com/images/I/61ixvBDobxL.jpg",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB-audio_98835_eng=98800-video=863200.m3u8"
+		},
+		{
+			"title": "News18 UP/UK Live",
+			"quality": "260p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "https://pbs.twimg.com/profile_images/1486988618329903107/KfoeGsNa_400x400.jpg",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News18_UP_Uttarakhand_voot_MOB-audio_33636_eng=33600-video=148000.m3u8"
+		},
+		{
+			"title": "News18 UP/UK Live",
+			"quality": "480p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "https://pbs.twimg.com/profile_images/1486988618329903107/KfoeGsNa_400x400.jpg",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News18_UP_Uttarakhand_voot_MOB-audio_98835_eng=98800-video=863200.m3u8"
 		}
 	]
 }
