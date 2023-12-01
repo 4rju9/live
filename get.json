@@ -1,12 +1,20 @@
 {
-	"data": [
+	"sports": [
 		{
-			"title": "NDTV INDIA",
+			"title": "India vs Australia Live",
+			"quality": "360p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "",
+			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2004/master_360p.m3u8"
+		},
+		{
+			"title": "India vs Australia Live",
 			"quality": "480p",
 			"language": "Hindi",
 			"mediaType": "m3u8",
-			"logo": "https://cdn.ndtv.com/common/images/ogndtv.png",
-			"url": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"
+			"logo": "",
+			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2004/master_480p.m3u8"
 		},
 		{
 			"title": "SPORTS 18 HD",
@@ -23,31 +31,9 @@
 			"mediaType": "m3u8",
 			"logo": "https://assets.mspimages.in/gear/wp-content/uploads/2022/11/Sports-18.jpg",
 		        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_131634_eng=131600-video=765200.m3u8"
-		},
-		{
-			"title": "9XM",
-			"quality": "480p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"logo": "",
-			"url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
-		},
-		{
-			"title": "Colors HD",
-			"quality": "360p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"logo": "",
-			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=250000.m3u8"
-		},
-		{
-			"title": "Colors HD",
-			"quality": "480p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"logo": "",
-			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=765200.m3u8"
-		},
+		}
+	],
+	"entertainment": [
 		{
 			"title": "Big Boss Live",
 			"quality": "360p",
@@ -65,20 +51,40 @@
 			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master_480p.m3u8"
 		},
 		{
-			"title": "India vs Australia Live",
+			"title": "Colors HD",
 			"quality": "360p",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2004/master_360p.m3u8"
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=250000.m3u8"
 		},
 		{
-			"title": "India vs Australia Live",
+			"title": "Colors HD",
 			"quality": "480p",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100322/hd_akamai_iosmob_avc_hin_indvsaus_t2004/master_480p.m3u8"
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=765200.m3u8"
+		}
+	],
+	"music": [
+		{
+			"title": "9XM",
+			"quality": "480p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "",
+			"url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+		}
+	],
+	"news": [
+		{
+			"title": "NDTV INDIA",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "https://cdn.ndtv.com/common/images/ogndtv.png",
+			"url": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"
 		}
 	]
 }
