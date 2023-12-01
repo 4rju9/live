@@ -38,15 +38,7 @@
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "",
-			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin_98800_video_3110800.m3u8"
-		},
-		{
-			"title": "Sports 18 HD",
-			"quality": "Multi",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"logo": "",
-			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Sports18_1_HD_voot_MOB-audio_33642_eng_33600_video_765200.m3u8"
+			"url": "https://jcevents.akamaized.net/bpk-tv/Colors_HD_voot_MOB/Fallback/hdntl=exp=1701513307~acl=%2f*~id=9bf22339-eac1-4fb9-b1aa-fe8fcafbe89b~data=hdntl~hmac=c876300f88d941eb44a0da0ad85706432f635e32a9512a8bfc823732981bbc43/Colors_HD_voot_MOB-audio_98835_hin=98800-video=3110800.m3u8"
 		}
 	]
 }
