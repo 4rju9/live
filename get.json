@@ -70,12 +70,44 @@
 	],
 	"movies": [
 		{
+			"title": "KGF Chapter:1",
+			"quality": "multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"logo": "https://m.media-amazon.com/images/M/MV5BYzJmYzExZGEtMTUwYy00YzIyLWJmOTEtZWFkNTU0YThlYzdmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+			"url": "https://yot.gnicirp.com/_v10/ae44a7f6e6dd0f98311c2e69bf015c0344e11b56b501a0d6aca8060ee41980fd4336da3cde4181f410f7daee9d584a8770e5263d22ff4634900a752cae9c79d76076f61efe6ccebed763c1eca43ae4206b3e4abac35d2e98d54b1107c5570f20c6c10b8a3f293320c1123262f5b6eaf1a7fdf9fac3b072cf81259b4c28df485195a26c2d4576f0ebb0670078b8e56b51/playlist.m3u8"
+		},
+		{
 			"title": "The Flash",
-			"quality": "720p",
+			"quality": "Multi",
 			"language": "English",
 			"mediaType": "m3u8",
 			"logo": "https://image.tmdb.org/t/p/w185//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
 			"url": "https://yot.gnicirp.com/_v10/bbac044e08b7d5440ba53cb4860506893a3fc2850f77a17efb72ca422d144d4ac21100a318c0e3d361172486dfceae24bde7b2cd3c30f8a733e6b7c4f619418ebf532292ef7cf1ddb75edb69427654c2cc28f1526a0fe974a7bcff0718b251250533918040a85231eab2fc88d89d04e26db925bfd349d9c6b3e2afa36b682f0ce2c7387f7f258db18e0b30990adf74bd/playlist.m3u8"
+		},
+		{
+			"title": "John Wick Ch:1",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"logo": "https://image.tmdb.org/t/p/w185//fZPSd91yGE9fCcCe6OoQr6E3Bev.jpg",
+			"url": "https://yot.gnicirp.com/_v10/c9af48f8162b44f53c370ac8c05a58fdf9731d129a9214db71a8cfe7e0537695a43779d86aca8067238fdb0d55bbbe8e4d76c1aaae4670cb078c37bca91983dbf3fd9447833a8f8a27948d1a86bc714a55e39e67803cb52e1c1f16ea126ffc522f5cddf5191bd12b263048827e5e0f2d08cc8c8f7d8c1acb01a155acb74dfaaead647d4b6ed529c7096e05683378bbe4/playlist.m3u8"
+		},
+		{
+			"title": "John Wick Ch:2",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"logo": "https://image.tmdb.org/t/p/w185//hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+			"url": "https://yot.gnicirp.com/_v10/339248e26075734d35495aebbc1f6c397f00f14c966eef64bee3d56804d905fab71903a2b0ea96474f54ac8aefcd6dec27cdcb31dcd839c659f699d59beb07d2d467ce022634dbcae55ef0c486cfb3df3be4b6c7fe70fb9b9058e63bd5a3e0b6f321789636954c7e09ddc8f7e30d18c11a0d606ae1dc26e55f38535fad26c6e97c519cb4b5abefa951feba2a3766d9f4/playlist.m3u8"
+		},
+		{
+			"title": "John Wick Ch:4",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"logo": "https://image.tmdb.org/t/p/w185//hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg",
+			"url": "https://yot.gnicirp.com/_v10/e87f231b367d9120fce53210c6d4d7e55a7a54764ca17a4b83ba8d354c8220d8953ba39d5a7662d491056ecb24e31a1a23f4e78ea5d6509da4265afff940c5e95ba23657fc4930446412a8215d3db8f66bc6903855bdc844bcebb764a0fa68a75fe57a372e3939ca4fd096a00951a80932a801ccd8399f62009e47a21ff5dce732943c9499fa0d71b75370179e4775e0/playlist.m3u8"
 		}
 	],
 	"music": [
