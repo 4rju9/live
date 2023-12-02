@@ -75,15 +75,7 @@
 			"language": "English",
 			"mediaType": "m3u8",
 			"logo": "https://image.tmdb.org/t/p/w185//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-			"url": "https://yot.gnicirp.com/_v10/bbac044e08b7d5440ba53cb4860506893a3fc2850f77a17efb72ca422d144d4ac21100a318c0e3d361172486dfceae24bde7b2cd3c30f8a733e6b7c4f619418ebf532292ef7cf1ddb75edb69427654c2cc28f1526a0fe974a7bcff0718b251250533918040a85231eab2fc88d89d04e26db925bfd349d9c6b3e2afa36b682f0ce2c7387f7f258db18e0b30990adf74bd/720/index.m3u8"
-		},
-		{
-			"title": "The Flash",
-			"quality": "1080p",
-			"language": "English",
-			"mediaType": "m3u8",
-			"logo": "https://image.tmdb.org/t/p/w185//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-			"url": "https://yot.gnicirp.com/_v10/bbac044e08b7d5440ba53cb4860506893a3fc2850f77a17efb72ca422d144d4ac21100a318c0e3d361172486dfceae24bde7b2cd3c30f8a733e6b7c4f619418ebf532292ef7cf1ddb75edb69427654c2cc28f1526a0fe974a7bcff0718b251250533918040a85231eab2fc88d89d04e26db925bfd349d9c6b3e2afa36b682f0ce2c7387f7f258db18e0b30990adf74bd/1080/index.m3u8"
+			"url": "https://yot.gnicirp.com/_v10/bbac044e08b7d5440ba53cb4860506893a3fc2850f77a17efb72ca422d144d4ac21100a318c0e3d361172486dfceae24bde7b2cd3c30f8a733e6b7c4f619418ebf532292ef7cf1ddb75edb69427654c2cc28f1526a0fe974a7bcff0718b251250533918040a85231eab2fc88d89d04e26db925bfd349d9c6b3e2afa36b682f0ce2c7387f7f258db18e0b30990adf74bd/playlist.m3u8"
 		}
 	],
 	"music": [
