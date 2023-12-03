@@ -48,7 +48,7 @@
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/temptation_01_3x4_01-1699530747570.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master_480p.m3u8"
+			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master.m3u8"
 		},
 		{
 			"title": "Colors HD",
