@@ -36,31 +36,15 @@
 	"entertainment": [
 		{
 			"title": "Big Boss Live",
-			"quality": "360p",
+			"quality": "Multi",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "https://www.koimoi.com/wp-content/new-galleries/2021/06/bigg-boss-15-to-go-on-air-for-six-months-001.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master_360p.m3u8"
-		},
-		{
-			"title": "Big Boss Live",
-			"quality": "480p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"logo": "https://www.koimoi.com/wp-content/new-galleries/2021/06/bigg-boss-15-to-go-on-air-for-six-months-001.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master_480p.m3u8"
+			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8"
 		},
 		{
 			"title": "Temptation Island",
-			"quality": "380p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"logo": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/temptation_01_3x4_01-1699530747570.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master_360p.m3u8"
-		},
-		{
-			"title": "Temptation Island",
-			"quality": "480p",
+			"quality": "Multi",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"logo": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/temptation_01_3x4_01-1699530747570.jpg",
