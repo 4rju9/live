@@ -1,20 +1,20 @@
 {
 	"sports": [
                 {
-			"title": "IND vs AUS Live",
+			"title": "IND-W vs ENG-W",
 			"quality": "240p",
 			"language": "Hindi",
 			"mediaType": "m3u8",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZMZX_49gjSXeinDDzp81wuQ2vHWKzOb0Jw&usqp=CAU",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsaus_t2005/master_240p.m3u8"
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUoRai68g7U2yBYHKzeMuT6PKuEk3LQ9EHQ&usqp=CAU",
+			"url": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_iosmob_avc_hin_womenst20_061223/master_240p.m3u8"
 		},
                 {
 			"title": "IND vs AUS Live",
 			"quality": "Multi",
 			"language": "Hindi",
 			"mediaType": "m3u8",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZMZX_49gjSXeinDDzp81wuQ2vHWKzOb0Jw&usqp=CAU",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100323/hd_akamai_androidmob_avc_hin_indvsaus_t2005/master.m3u8"
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwzTZaqx8BiX4Usp5mE25WeMXyrNEmf5m-Og&usqp=CAU",
+			"url": "https://prod-sports-hin-cf.jiocinema.com/hls/live/2100328/hd_akamai_iosmob_avc_hin_womenst20_061223/master.m3u8"
 		},
 		{
 			"title": "SPORTS 18 HD",
