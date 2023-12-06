@@ -70,12 +70,12 @@
 	],
 	"movies": [
 		{
-			"title": "KGF Chapter:1",
+			"title": "Shershaah",
 			"quality": "multi",
 			"language": "Hindi",
 			"mediaType": "m3u8",
-			"logo": "https://m.media-amazon.com/images/M/MV5BYzJmYzExZGEtMTUwYy00YzIyLWJmOTEtZWFkNTU0YThlYzdmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
-			"url": "https://yot.gnicirp.com/_v10/ae44a7f6e6dd0f98311c2e69bf015c0344e11b56b501a0d6aca8060ee41980fd4336da3cde4181f410f7daee9d584a8770e5263d22ff4634900a752cae9c79d76076f61efe6ccebed763c1eca43ae4206b3e4abac35d2e98d54b1107c5570f20c6c10b8a3f293320c1123262f5b6eaf1a7fdf9fac3b072cf81259b4c28df485195a26c2d4576f0ebb0670078b8e56b51/playlist.m3u8"
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczAad9OMH8dY8vOh5znrkF0Yaseih2-runA&usqp=CAU",
+			"url": "https://yot.gnicirp.com/_v10/8cc8018e736de2cbb098c60e86edff940e6fd86edaa86046a1feef71a834d137869657dd8ef1c99d565327011c4f52b7d88a30a15ae8af69a918fadba7f739a97eaba107210be4890a143c3df30a6abeae37609a3770e2e668ee5a62c20d9d549fc44450e5b8a530dc8086bf914bdc67f0cae9eacb6f8d7a71baa52d1e837f61b4f541341d206f44c3c0e7fae43e9d2f/playlist.m3u8"
 		},
 		{
 			"title": "The Flash",
