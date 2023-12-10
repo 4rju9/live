@@ -7,7 +7,7 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"logo": "https://www.peterroebuck.com/wp-content/uploads/2020/04/IPL-match.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2100328/hd_akamai_iosmob_avc_hin_womenst20_091223/master_360p.m3u8"
+			"url": "https://ak-mediavod.jiocinema.com/bpkvod/jcsports/default/6575ed5acdce82971e7293fc_v1/6575ed5acdce82971e7293fc_v1/hdntl=exp=1702316292~acl=%2fbpkvod%2fjcsports%2fdefault%2f6575ed5acdce82971e7293fc_v1%2f6575ed5acdce82971e7293fc_v1%2f*~id=186e6c750ed3411ba68274b172b33ef0~data=hdntl~hmac=c23d2cc592abff0fce858c3d78909858061470f5a5cd26831860cd5ad8ad7a70/6575ed5acdce82971e7293fc_v1-audio_hin=125375-video_1=2238454.m3u8"
 		},
                 {
 			"title": "IND-W vs ENG-W",
