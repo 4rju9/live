@@ -57,6 +57,15 @@
 			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master.m3u8"
 		},
 		{
+			"title": "Sonic Nickelodeon",
+			"quality": "Multu",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolAjDsULKxi4LmagX767sVkTZD_8lDVvC_A&usqp=CAU",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
+		},
+		{
 			"title": "Colors HD",
 			"quality": "240p",
 			"language": "Hindi",
