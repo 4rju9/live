@@ -1,28 +1,16 @@
 {
 	"sports": [
 		{
-			"title": "Star Sports 1",
+			"title": "Star Sports Hindi",
 			"quality": "Multi",
-			"language": "English",
+			"language": "Hindi",
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://www.peterroebuck.com/wp-content/uploads/2020/04/IPL-match.jpg",
-			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
-			"keyId": "BjQb891jXmylxxGI0CEDcw",
-			"key": "f42v7sRxiWE4LsI8nzNYPw"
-		},
-		{
-			"title": "Sky",
-			"quality": "Multi",
-			"language": "English",
-			"mediaType": "Mpd",
-			"hasContent": "false",
-			"hasDrm": "true",
-			"logo": "https://www.peterroebuck.com/wp-content/uploads/2020/04/IPL-match.jpg",
-			"url": "https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd",
-			"keyId": "AAPypy0h79FZ1Fo6dN7NhA",
-			"key": "3w7EBYbWQfPUcoq1/WKtww"
+			"logo": "https://exchange4media.gumlet.io/news-photo/120155-image.png?w=500",
+			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+			"keyId": "ap5CBPP4V36/bnmzsYVz+A",
+			"key": "pfCbwx26w0OMYHRVNaqEPg"
 		},
 		{
 			"title": "Willow HD",
@@ -31,7 +19,7 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://www.peterroebuck.com/wp-content/uploads/2020/04/IPL-match.jpg",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWnrnGaMvMZqKpFtchhencB-9n5Hmvp9YzHLmnFIoIG-uR_3tRuyfUt8SkxfSca842Mg&usqp=CAU",
 			"url": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
 			"keyId": "ZlPAXkL8T6yPSdfL+ZSY/g",
 			"key": "O4jyz/Ov/vILJlyEC6/AzA"
