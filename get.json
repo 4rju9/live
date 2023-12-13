@@ -159,6 +159,24 @@
 			"hasContent": "false",
 			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6wWCQa2Gn3_f1z9u5UIXWgM3Bn_cHv6L0g&usqp=CAU",
 			"url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+		},
+		{
+			"title": "MTV Beats",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl_jgelkoOqtT7Zz3QWRcB5dF0rZ8fAivSfw&usqp=CAU",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8"
+		},
+		{
+			"title": "MTV HD+",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSbea2eDl7ZBIBuCHR4uu4hhjARBb7W2WlAw&usqp=CAU",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8"
 		}
 	],
 	"news": [
