@@ -145,6 +145,24 @@
 	],
 	"news": [
 		{
+			"title": "Aaj Tak Live",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj8md-6ECp04gQUAvjEteic0nEEZcvVzEegg&usqp=CAU",
+			"url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8"
+		},
+		{
+			"title": "ABP News Live",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3GWCSyY3hyoNfKh7xdDWcVAU_c6J_bogaQA&usqp=CAU",
+			"url": "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8"
+		},
+		{
 			"title": "NDTV India Live",
 			"quality": "Multi",
 			"language": "Hindi",
