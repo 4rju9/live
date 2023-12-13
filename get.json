@@ -1,6 +1,18 @@
 {
 	"sports": [
 		{
+			"title": "Star Sports Hindi",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "Mpd",
+			"hasContent": "false",
+			"hasDrm": "true",
+			"logo": "https://exchange4media.gumlet.io/news-photo/120155-image.png?w=500",
+			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+			"keyId": "ap5CBPP4V36/bnmzsYVz+A",
+			"key": "qTdjQq7QidrdEM8xefdbYg"
+		},
+		{
 			"title": "Willow HD",
 			"quality": "Multi",
 			"language": "English",
