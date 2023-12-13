@@ -1,6 +1,30 @@
 {
 	"sports": [
 		{
+			"title": "Star Sports 1",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "Mpd",
+			"hasContent": "false",
+			"hasDrm": "true",
+			"logo": "https://www.peterroebuck.com/wp-content/uploads/2020/04/IPL-match.jpg",
+			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd",
+			"keyId": "BjQb891jXmylxxGI0CEDcw",
+			"key": "f42v7sRxiWE4LsI8nzNYPw"
+		},
+		{
+			"title": "Sky",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "Mpd",
+			"hasContent": "false",
+			"hasDrm": "true",
+			"logo": "https://www.peterroebuck.com/wp-content/uploads/2020/04/IPL-match.jpg",
+			"url": "https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd",
+			"keyId": "AAPypy0h79FZ1Fo6dN7NhA",
+			"key": "3w7EBYbWQfPUcoq1/WKtww"
+		},
+		{
 			"title": "Willow HD",
 			"quality": "Multi",
 			"language": "English",
