@@ -69,16 +69,6 @@
 			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8"
 		},
 		{
-			"title": "Temptation Island",
-			"quality": "Multi",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://temptationisland.in/wp-content/uploads/2023/11/the-temptation-channel.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master.m3u8"
-		},
-		{
 			"title": "Sonic Nickelodeon",
 			"quality": "Multi",
 			"language": "Hindi",
