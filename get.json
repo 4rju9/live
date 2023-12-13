@@ -7,10 +7,22 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://exchange4media.gumlet.io/news-photo/120155-image.png?w=500",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbZMj9s0XrhlC4oo1JA9FsBVAowjnkpGo_9Q&usqp=CAU",
 			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
 			"keyId": "ap5CBPP4V36/bnmzsYVz+A",
 			"key": "qTdjQq7QidrdEM8xefdbYg"
+		},
+		{
+			"title": "Star Sports 2 HD",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "Mpd",
+			"hasContent": "false",
+			"hasDrm": "true",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qXLl6RAQWohiyW3IMFMG5SdO6fNvS6hdfQ&usqp=CAU",
+			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd",
+			"keyId": "vF6pUmmFU9qrqFeHAB1gkw",
+			"key": "z2vQLP+L085WfeiUP/v82Q"
 		},
 		{
 			"title": "Willow HD",
