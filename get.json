@@ -58,19 +58,7 @@
 		}
 	],
 	"entertainment": [
-		{
-			"title": "Test",
-			"quality": "Test",
-			"language": "Test",
-			"mediaType": "Mpd",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://exchange4media.gumlet.io/news-photo/120155-image.png?w=500",
-			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
-			"keyId": "ap5CBPP4V36/bnmzsYVz+A",
-			"key": "pfCbwx26w0OMYHRVNaqEPg"
-		},
-	
+		
 	],
 	"movies": [
 		{
