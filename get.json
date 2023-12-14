@@ -58,27 +58,57 @@
 		}
 	],
 	"entertainment": [
+		{
+			"title": "Big Boss Live",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://www.koimoi.com/wp-content/new-galleries/2021/06/bigg-boss-15-to-go-on-air-for-six-months-001.jpg",
+			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8"
+		},
+		{
+			"title": "Temptation Island",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://temptationisland.in/wp-content/uploads/2023/11/the-temptation-channel.jpg",
+			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master.m3u8"
+		},
+		{
+			"title": "Sonic Nickelodeon",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQolAjDsULKxi4LmagX767sVkTZD_8lDVvC_A&usqp=CAU",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
+		},
+		{
+			"title": "Colors HD",
+			"quality": "240p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://images.freekaamaal.com/post_images/1610005453.png",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=250000.m3u8"
+		},
+		{
+			"title": "Colors HD",
+			"quality": "480p",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://images.freekaamaal.com/post_images/1610005453.png",
+			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/Colors_HD_voot_MOB-audio_98835_hin=98800-video=765200.m3u8"
+		},
 		
-		{
-			"title": "Discovery HD",
-			"quality": "240p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOofnuHieE1UFab5BfOgERNhEpB7qcehqbw&usqp=CAU",
-			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Channel.m3u8"
-		},
-		{
-			"title": "Animal Planet",
-			"quality": "240p",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgWpukjpt5kKWFxWI0d-s_E8eZkgRzgHgTQ&usqp=CAU",
-			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Animal_Planet.m3u8"
-		},
 	
 	],
 	"movies": [
