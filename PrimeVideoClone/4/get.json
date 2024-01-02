@@ -2,90 +2,126 @@
   "get_categories": [
     {
       "categoryId": "1",
-      "categoryTitle": "Comedy Movies [kids section]",
+      "categoryTitle": "Top movies for kids and family",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "DHAMAL",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGE7Ru849-CouHPXcvEugD5LyVVxgHXGpUMCf4B_Rmoc_3ybcPMf4rkK8ecC4lC6pX8eY&usqp=CAU",
+          "movieName": "THE ANGRY BIRDS",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2d1866a629bf7e2c6f1c82af61008a0af0189eae11d1744388f499ab6788957b._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "DHOL",
+          "movieName": "LEGO MARVEL: MAXIMUM OVERLOAD",
           "imageUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/2067/1000102067/1000102067-h",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "JHOOTHA KAHIN KA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0Wj8yhOhvd1SlaMM1Rr3RlMNNaJFzGkZv8x8-GkTC3BvnSyDnQb1PtcTyf5ATOsTns4&usqp=CAU",
+          "movieName": "HUMPTY DUMPTY",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e001e038f1d07ac41dad9977b8cc3fdf47d0e2c2a9f40a2db352c86e746255be._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+          "id": "4",
+          "movieName": "BHEEMAYAN",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b8ff8beec4098b96d3c0c74b000bd44f615322954b86adaf182cf823ecd4c27a._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       ]
     },
     {
       "categoryId": "2",
-      "categoryTitle": "Action and adventure movies [kids section]",
+      "categoryTitle": "Action and adventure TV and movies",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "PATHAN",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtSzm23_itlm8fPlTs-6mlZKnBqeLoF7YsERQhSkE63KtxyMY_K5xpT0_EqJWgLvUcFY&usqp=CAU",
+          "movieName": "SPIDER-MAN INTO THE SPIDER VERSE",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f36528af9cf980ffb2d71d9a3b128518c8b99526e57179cb05a204f757e9b88d._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "ACTION JACKSON",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyxIFV22C72ahiA27hVFRV53uJvEH7EhNKoQ8DPtM_ncQda7V7Eh4Td5U7WXfXt6wMAA&usqp=CAU",
+          "movieName": "BAL GANESH 3",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/cb01e781b1fc5ae864f8d67d749b3ab8cb5e2e711b13a9ab667b274a9b76c4e2._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "BHOOT POLICE",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUmF51J7aWS4HnH6RKecZpDSilblzIXDcO_9pMdgpJWqXimmCQlc4q_YT4r5nqBNudr8&usqp=CAU",
+          "movieName": "HONEY BUNNY IN HAUNTED HOUSE",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/93016a1a187be3fb454d49b26f4c7479d1b0407728902e391ea8a5b383a6bf81._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "4",
-          "movieName": "SHAMSHERA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFa7Dfu0dmwVW74DR_uf0Fs6oGYMlOGyg528GVzuF7x_ii5ocvuV10U3FSDNIJbvJSqU&usqp=CAU",
+          "movieName": "PATALIPUTRA: CITY OF THE DEAD",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/54868709d112d8eb67106b394d0fb195eaad5c2234702bff3f1a71fec6b8c6be._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "5",
-          "movieName": "D-DAY",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJvLKnNQlhaBN0egVr9by8230UCvkas3QEbxPgQz6LYQiem8FG-AGQ0tAG4TtAymTPWo&usqp=CAU",
+          "movieName": "CHHOTA BHEEM AND KAALA YODHA",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/230939304724a75d85ac658adb1796cf7ffc0b030964394315b3f16815973ebe._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       ]
     },
     {
       "categoryId": "3",
-      "categoryTitle": "Hindi TV shows [kids section]",
+      "categoryTitle": "Kids and family TV",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "MAHABHARAT",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MR1TO6ubpFF0wBxItBZVmXL6gexBCPM9CgFzRdFewR8je1DHULC6heL0dTaHNfekNxI&usqp=CAU",
+          "movieName": "CHHOTA BHEEM: KUNG FU DHAMAKA",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/93a37bdb7a873f123f6ba44a83ba749cd47e5790562f2d676a753eb72aae22eb._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "RAMAYANA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSwQYzmlgj7Mn1jSQXomKGh_xmgZNYv9sa2g2fYKw9t9YnAmhL4EOWIB1ak-u95wWFcs&usqp=CAU",
+          "movieName": "THE STINKY DIRTY SHOW",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5715e00ee38193d3e50940800e106a3fb294e14f41769716cf4a76d770746405._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "TAARAK MEHTA KA OOLTAH CHASHMAH",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MR1TO6ubpFF0wBxItBZVmXL6gexBCPM9CgFzRdFewR8je1DHULC6heL0dTaHNfekNxI&usqp=CAU",
+          "movieName": "JUST ADD MAGIC: MYSTERY CITY",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/56d1898404c1be95cece636f12b2284f93fcaf73b2db836c3f79079e154c699f._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        }
+      ]
+    },
+    {
+      "categoryId": "4",
+      "categoryTitle": "Top TV for kids and family",
+      "get_movies": [
+        {
+          "id": "1",
+          "movieName": "PAWS OF FURY: THE LEGEND OF HANK",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/faa614c02d3db56375f70f5680df1c60df9dabcbab566a3983fa0e6410e6f2b5._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+          "id": "2",
+          "movieName": "LOST IN OZ",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c340aae218db501096ab9b6db889974046aa6aaf5f5a385376f6a0928bfbfe09._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+          "id": "3",
+          "movieName": "LEGO JURASSIC WORLD: THE SECRET EXHIBIT PART 2",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b192e40318a61c4fb5290dd7d0e3ab77173e2fd74a8d6bc4a62ab5cffbe90a0a._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "4",
-          "movieName": "NAAGIN SEASON 5",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29R3nU5yArItqGtGvYAQQCEzadIUEe6GYXNomwo_rnO_q_zXTaEv88t9VclYCpqfzNvI&usqp=CAU",
+          "movieName": "GO, DIEGO, GO!",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b5d17f29f067384de568824f732d4b7154b3782408f82cf199645b8185f0fa31._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+          "id": "5",
+          "movieName": "THUNDERBIRDS ARE GO",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/652e08ae9fdd69c009150d02f180dd622f07776edd680c3cef837b401222b670._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       ]
