@@ -45,15 +45,15 @@
       {
         "categoryId": "2",
         "id": "2",
-        "movieName": "SQUID GAMES",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelqOyA2vibMPfWo0rM0hoScofNs9ilG8eRQ&usqp=CAU",
+	"movieName": "DAREDEVIL",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0UlT5B_KenbxbuHqY--cHzvUEd72_bpnNTHQ0eDRyR_yt-98Om5gdx9ql6L5cUbksshw&usqp=CAU",
         "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
 		  },
       {
         "categoryId": "2",
         "id": "3",
-        "movieName": "SKINS",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWJuf0CvCDqnlB9K4acU1oWIB2BaHLIVBYA0SNRl2n7PeXdLQ3dt8n4arO9mqsYvHYJE&usqp=CAU",
+	"movieName": "SQUID GAMES",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelqOyA2vibMPfWo0rM0hoScofNs9ilG8eRQ&usqp=CAU",
         "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
 		  },
       {
@@ -66,8 +66,8 @@
       {
         "categoryId": "2",
         "id": "5",
-        "movieName": "THEM",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelqOyA2vibMPfWo0rM0hoScofNs9ilG8eRQ&usqp=CAU",
+        "movieName": "SKINS",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWJuf0CvCDqnlB9K4acU1oWIB2BaHLIVBYA0SNRl2n7PeXdLQ3dt8n4arO9mqsYvHYJE&usqp=CAU",
         "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
 		  },
       {
