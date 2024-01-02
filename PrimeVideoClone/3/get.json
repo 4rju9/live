@@ -2,91 +2,80 @@
   "get_categories": [
     {
       "categoryId": "1",
-      "categoryTitle": "Comedy Movies [movies section]",
+      "categoryTitle": "New released",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "DHAMAL",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGE7Ru849-CouHPXcvEugD5LyVVxgHXGpUMCf4B_Rmoc_3ybcPMf4rkK8ecC4lC6pX8eY&usqp=CAU",
+          "movieName": "FLAMES",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/c8000bc2d5e58cd76bbf945907cb3f8afa114972e46f4957e28a7136666813af._UR1920,1080_SX720_FMpng_.png",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "DHOL",
-          "imageUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/2067/1000102067/1000102067-h",
+          "movieName": "SATYAPREM KI KATHA",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/bbf6bf4d7c338c0c85904685bec4caafb789d987bc2c07bf5d88d3f8153f03b1._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "JHOOTHA KAHIN KA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0Wj8yhOhvd1SlaMM1Rr3RlMNNaJFzGkZv8x8-GkTC3BvnSyDnQb1PtcTyf5ATOsTns4&usqp=CAU",
+          "movieName": "KIDA",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/83f8fdb743500fdf226ade74e8bd11be19b3210a3554171bb0f177e10afb74b2._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       ]
     },
     {
       "categoryId": "2",
-      "categoryTitle": "Action and adventure movies [movies section]",
+      "categoryTitle": "Trending",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "PATHAN",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtSzm23_itlm8fPlTs-6mlZKnBqeLoF7YsERQhSkE63KtxyMY_K5xpT0_EqJWgLvUcFY&usqp=CAU",
+          "movieName": "THE BOYS",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/16381fc8b5b9b1a20cb78cfcbbde00358608d0ad6326935b9421ea42add5d563._UR1920,1080_SX720_FMpng_.png",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "ACTION JACKSON",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyxIFV22C72ahiA27hVFRV53uJvEH7EhNKoQ8DPtM_ncQda7V7Eh4Td5U7WXfXt6wMAA&usqp=CAU",
+          "movieName": "SHERLOCK",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c8e271bba001372fc7ca5e96a3da4295111d5d7e6c00edef26cb137c044e81c._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "BHOOT POLICE",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUmF51J7aWS4HnH6RKecZpDSilblzIXDcO_9pMdgpJWqXimmCQlc4q_YT4r5nqBNudr8&usqp=CAU",
+          "movieName": "DEATH GAME",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9e089b95c999ba8cb98f62062be85a007f1749387bd4408fc2b4f3931ea7c70._UR1920,1080_SX720_FMpng_.png",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "4",
-          "movieName": "SHAMSHERA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTFa7Dfu0dmwVW74DR_uf0Fs6oGYMlOGyg528GVzuF7x_ii5ocvuV10U3FSDNIJbvJSqU&usqp=CAU",
-          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "id": "5",
-          "movieName": "D-DAY",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmJvLKnNQlhaBN0egVr9by8230UCvkas3QEbxPgQz6LYQiem8FG-AGQ0tAG4TtAymTPWo&usqp=CAU",
+          "movieName": "GEN V",
+          "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/BYSO_S1/IN/en_IN/COVER_ART/CLEAN/HEADLESSHOMELANDER._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       ]
     },
     {
       "categoryId": "3",
-      "categoryTitle": "Hindi TV shows [movies section]",
+      "categoryTitle": "Hindi movies",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "MAHABHARAT",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MR1TO6ubpFF0wBxItBZVmXL6gexBCPM9CgFzRdFewR8je1DHULC6heL0dTaHNfekNxI&usqp=CAU",
+          "movieName": "Annhi Dea Mazaak Ae",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/74774cc3e2d5f9be8e613fc989a54d47cc40624092af92d3688f35fab9c07b6a._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "RAMAYANA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSwQYzmlgj7Mn1jSQXomKGh_xmgZNYv9sa2g2fYKw9t9YnAmhL4EOWIB1ak-u95wWFcs&usqp=CAU",
+          "movieName": "AAJA MEXICO CHALIYE",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e9a901dcbdb908c71c264a4241021a5e2a6af43bf520609a872faeb9b83aa5ac._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "TAARAK MEHTA KA OOLTAH CHASHMAH",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MR1TO6ubpFF0wBxItBZVmXL6gexBCPM9CgFzRdFewR8je1DHULC6heL0dTaHNfekNxI&usqp=CAU",
+          "movieName": "MUNDA HI CHAHIDA",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dff2d54a6e80276103138633406ff6754560b9d33dd24004d000613b9ae1622d._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
-        },
-        {
-          "id": "4",
-          "movieName": "NAAGIN SEASON 5",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29R3nU5yArItqGtGvYAQQCEzadIUEe6GYXNomwo_rnO_q_zXTaEv88t9VclYCpqfzNvI&usqp=CAU",
-          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        }
         }
       ]
     }
