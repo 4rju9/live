@@ -1,0 +1,144 @@
+{
+	  "get_banners": [
+		  {
+        "categoryId": "1",
+        "id": "1",
+        "movieName": "AQUA MAN",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7byybfv7B3BlEb7btSnQ2XAQRHDao9q9_Iw&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "1",
+        "id": "2",
+        "movieName": "THE AMAZING SPIDER MAN",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cHeuIyp7dYGjJaq351m97BBj_15zazCESA&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "1",
+        "id": "3",
+        "movieName": "JUSTICE LEAGUE",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB5WuyTsBdfgfKZr3YaXbRq0giaHErYkyXA&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "1",
+        "id": "4",
+        "movieName": "BLACK WIDOW",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyJ1uXbVY-smPvVtdaK4c8eyAimNjWxz-VA&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "1",
+        "id": "5",
+        "movieName": "KGF CHAPTER: 2",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQGHO4P6zJkavlE_PPD1Whm6aUme9JrX-Dg&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "2",
+        "id": "1",
+        "movieName": "ORIGINAL SIN",
+        "imageUrl": "https://film-book.com/wp-content/uploads/2022/08/pretty-little-liars-original-sin-tv-show-poster-banner-01-700x400-1-700x400.jpg",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "2",
+        "id": "2",
+        "movieName": "SQUID GAMES",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelqOyA2vibMPfWo0rM0hoScofNs9ilG8eRQ&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "2",
+        "id": "3",
+        "movieName": "SKINS",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwWJuf0CvCDqnlB9K4acU1oWIB2BaHLIVBYA0SNRl2n7PeXdLQ3dt8n4arO9mqsYvHYJE&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "2",
+        "id": "4",
+        "movieName": "FRIENDS",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR8i1Vq6BFY940k3i01FLmG13ojzV4_KXnCnA5kRUch7h_FclqSgr8jiJjfI49PzopBwY&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "2",
+        "id": "5",
+        "movieName": "THEM",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelqOyA2vibMPfWo0rM0hoScofNs9ilG8eRQ&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "3",
+        "id": "1",
+        "movieName": "OPPENHEIMER",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5gyzrG0YQLiEab-Y-7xvYVMj_eI7GZAzZA&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "3",
+        "id": "2",
+        "movieName": "THE AVENGERS",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fMaIhV0ysU6Lpqb5vfSLZndL-XOY84pFunfYJG8dbMq0dkdy8SOrUpguZS4tD09SAYk&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "3",
+        "id": "3",
+        "movieName": "X-MEN APOCALYPSE",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuWFeXoqXQRG_EYJmDkS_b7AXshaVCBqNR__fsFE6-LgIjcL4uD9FUt3Dtb4U4MTE97k&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "3",
+        "id": "4",
+        "movieName": "TIGER 3",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzr-Ooq-9KCjNRDpwx4En1V0f54wravxz3gtM10M2lsoXNfGydTseKbgJqg-HaZVXocc&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "3",
+        "id": "5",
+        "movieName": "LEO",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKaAOPmjTijbgq6B3wfg-E1VuA5S0Fou1FhQ&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "4",
+        "id": "1",
+        "movieName": "STRANGE WORLD",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-qjwc5lZ-Xxc0brdgusp7fFkYGWPZ98M-w&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "4",
+        "id": "2",
+        "movieName": "RAYA AND THE LAST DRAGON",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjwwntJ1jXF4iufQuNoPyqCJIbb5C9FhVag&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "4",
+        "id": "3",
+        "movieName": "ECANTO",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0swMgh1CowDeiRvDmEwQefbRgfXz5IgsBQ&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  },
+      {
+        "categoryId": "4",
+        "id": "4",
+        "movieName": "MONSTERS VS ALIENS",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6d9l856TrrDI8oTaU9XVHzrnCVegTjuqs2w&usqp=CAU",
+        "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
+		  },
+      {
+        "categoryId": "4",
+        "id": "5",
+        "movieName": "MALEFICNET",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVqC6AP3tmqbSZlmCJ983NqkSlOsVvMHLVQ&usqp=CAU",
+        "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+		  }
+    ]
+}
