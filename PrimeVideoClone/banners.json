@@ -80,8 +80,8 @@
     {
       "categoryId": "3",
       "id": "2",
-      "movieName": "SUITS",
-      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f012bf63088fe3f898da32bfc40805b6b5f46faf305782f6adbf64f03766b42c._UR1920,1080_SX720_FMjpg_.jpg",
+      "movieName": "SHERLOCK",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2c8e271bba001372fc7ca5e96a3da4295111d5d7e6c00edef26cb137c044e81c._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
@@ -108,36 +108,36 @@
     {
       "categoryId": "4",
       "id": "1",
-      "movieName": "STRANGE WORLD",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-qjwc5lZ-Xxc0brdgusp7fFkYGWPZ98M-w&usqp=CAU",
+      "movieName": "KUNG FU PANDA: THE PAWS OF DESTINY",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a3c9a288e58ef94c928d8742effeaa4051ef6f77b81e0b1ef51af1cb52a8c9bd._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
       "categoryId": "4",
       "id": "2",
-      "movieName": "RAYA AND THE LAST DRAGON",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYjwwntJ1jXF4iufQuNoPyqCJIbb5C9FhVag&usqp=CAU",
+      "movieName": "PAW PATROL",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5a2018f45e1aed8d789a334146053632aaab0f2997e0c7918253c7debd8f0a8a._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
       "categoryId": "4",
       "id": "3",
-      "movieName": "ECANTO",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs0swMgh1CowDeiRvDmEwQefbRgfXz5IgsBQ&usqp=CAU",
+      "movieName": "TENALI RAMAN",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/844eb9471fbcac9427fce015405be9a4341a6e9122f0b100553afda86ff57c94._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
       "categoryId": "4",
       "id": "4",
-      "movieName": "MONSTERS VS ALIENS",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6d9l856TrrDI8oTaU9XVHzrnCVegTjuqs2w&usqp=CAU",
+      "movieName": "BOSS BABY",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/21ea0d93cb63cdda77a159ffde973cf529026b56fe75da104a9e40c59ca8a753._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
       "categoryId": "4",
       "id": "5",
-      "movieName": "MALEFICNET",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoVqC6AP3tmqbSZlmCJ983NqkSlOsVvMHLVQ&usqp=CAU",
+      "movieName": "MAYANAGARI",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/2f1456411cb6e288f993c937029fb43639d984f663418a40994d5e80d5737858._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     }
   ]
