@@ -2,36 +2,48 @@
   "get_categories": [
     {
       "categoryId": "1",
-      "categoryTitle": "Comedy Movies [home section]",
+      "categoryTitle": "Movies",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "DHAMAL",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGE7Ru849-CouHPXcvEugD5LyVVxgHXGpUMCf4B_Rmoc_3ybcPMf4rkK8ecC4lC6pX8eY&usqp=CAU",
+          "movieName": "FUKREY",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/94b522817fbe019825ec6d71a12353366645dda4122dfe89dfdd91f22ce7b22d._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "2",
-          "movieName": "DHOL",
-          "imageUrl": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/2067/1000102067/1000102067-h",
+          "movieName": "ROCKEY AUR RANI",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/20e07311a2535374a54ed66127107ef0fcaf7d48dab411d44a04ee4aee5bf173._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
           "id": "3",
-          "movieName": "JHOOTHA KAHIN KA",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0Wj8yhOhvd1SlaMM1Rr3RlMNNaJFzGkZv8x8-GkTC3BvnSyDnQb1PtcTyf5ATOsTns4&usqp=CAU",
+          "movieName": "AFTER",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/05779626f2e0875744a9354e3b9c0d2fe30dd0914a29e19149258a95a0717aec._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+          "id": "4",
+          "movieName": "B.A. PASS",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5530e939c89841b51ec82e8e5a17ef107de6fc23091397ebac378600109a5e7e._UR1920,1080_SX720_FMjpg_.jpg",
+          "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+          "id": "5",
+          "movieName": "Bhagavanth Kesari",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/734e801bd1d211a325451b625585de011e8b12584f5444aa673a5d2750370383._UR1920,1080_SX720_FMjpg_.jpg",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       ]
     },
     {
       "categoryId": "2",
-      "categoryTitle": "Action and adventure movies [home section]",
+      "categoryTitle": "Movies For You",
       "get_movies": [
         {
           "id": "1",
-          "movieName": "PATHAN",
-          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtSzm23_itlm8fPlTs-6mlZKnBqeLoF7YsERQhSkE63KtxyMY_K5xpT0_EqJWgLvUcFY&usqp=CAU",
+          "movieName": "PANCHAYAT",
+          "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9f51e8ce4118362176505993ecd1a70223351fa1fee4a9d290ef1d945a3cbf30._UR1920,1080_SX720_FMpng_.png",
           "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         },
         {
