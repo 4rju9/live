@@ -3,36 +3,36 @@
     {
       "categoryId": "1",
       "id": "1",
-      "movieName": "AQUA MAN",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7byybfv7B3BlEb7btSnQ2XAQRHDao9q9_Iw&usqp=CAU",
+      "movieName": "B.A. PASS 2",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/e2bbc3c425248f47195e98b70c001fb8ef7248c23d4f0f8844f02fe1eb101f37._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
       "categoryId": "1",
       "id": "2",
-      "movieName": "THE AMAZING SPIDER MAN",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cHeuIyp7dYGjJaq351m97BBj_15zazCESA&usqp=CAU",
+      "movieName": "VARISU",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f9a19d3d83c4478d58fab689159a35886062007550162f1ab90a64c4d4801c1d._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
       "categoryId": "1",
       "id": "3",
-      "movieName": "JUSTICE LEAGUE",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB5WuyTsBdfgfKZr3YaXbRq0giaHErYkyXA&usqp=CAU",
+      "movieName": "TOP GUN: MAVERICK",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9f3e2d1f333319a5002916b1c99a2b0d7134cdaf81de421ba82d1e1d4ffd9d6b._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
       "categoryId": "1",
       "id": "4",
-      "movieName": "BLACK WIDOW",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNyJ1uXbVY-smPvVtdaK4c8eyAimNjWxz-VA&usqp=CAU",
+      "movieName": "BEAST",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/157bbd0c91117cdd0c57f86a18ffa8a5f1e15d4a4ec20b6430ab6b774c5532b3._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
       "categoryId": "1",
       "id": "5",
-      "movieName": "KGF CHAPTER: 2",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQGHO4P6zJkavlE_PPD1Whm6aUme9JrX-Dg&usqp=CAU",
+      "movieName": "BABY DRIVER",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5d32cf8b5967292b5ca6098a7b01622b6a0e08ff279fe684afbc7c4e59db246d._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
@@ -73,36 +73,36 @@
     {
       "categoryId": "3",
       "id": "1",
-      "movieName": "OPPENHEIMER",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5gyzrG0YQLiEab-Y-7xvYVMj_eI7GZAzZA&usqp=CAU",
+      "movieName": "UPLOAD",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/b807ac7d3388d31eba62aab9c6bcdff957423d9ac14e41c8c03137c134915063._UR1920,1080_SX720_FMpng_.png",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
       "categoryId": "3",
       "id": "2",
-      "movieName": "THE AVENGERS",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9fMaIhV0ysU6Lpqb5vfSLZndL-XOY84pFunfYJG8dbMq0dkdy8SOrUpguZS4tD09SAYk&usqp=CAU",
+      "movieName": "SUITS",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f012bf63088fe3f898da32bfc40805b6b5f46faf305782f6adbf64f03766b42c._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
       "categoryId": "3",
       "id": "3",
-      "movieName": "X-MEN APOCALYPSE",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXuWFeXoqXQRG_EYJmDkS_b7AXshaVCBqNR__fsFE6-LgIjcL4uD9FUt3Dtb4U4MTE97k&usqp=CAU",
+      "movieName": "KUMARI SRIMATHI",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/0d8593bd61c46fbc069d295a4a50618a1d3d1ed0195543180cfba5a095b4f8b0._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
       "categoryId": "3",
       "id": "4",
-      "movieName": "TIGER 3",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIzr-Ooq-9KCjNRDpwx4En1V0f54wravxz3gtM10M2lsoXNfGydTseKbgJqg-HaZVXocc&usqp=CAU",
+      "movieName": "HOSTEL DAZE",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/dc9c697183af60934fa596b30fba8ae5e83ac8e9b23557b34a818118ae329f3f._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8"
     },
     {
       "categoryId": "3",
       "id": "5",
-      "movieName": "LEO",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKaAOPmjTijbgq6B3wfg-E1VuA5S0Fou1FhQ&usqp=CAU",
+      "movieName": "MUMBAI DIARIES",
+      "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/aa0a867c037a9864003d97af800c59895e5c593907b7e8019029555aa1226c09._UR1920,1080_SX720_FMjpg_.jpg",
       "fileUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
     },
     {
