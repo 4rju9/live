@@ -31,10 +31,10 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://e0.365dm.com/23/11/1600x900/skysports-cricket-world-cup_6359058.jpg?20231113142738",
+			"logo": "https://www.koimoi.com/wp-content/new-galleries/2021/06/bigg-boss-15-to-go-on-air-for-six-months-001.jpg",
 			"url": "https://linear003-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_sm/Live/channel(skysportscricket)/manifest_sd.mpd",
-			"keyId": "AAPypy0h79FZ1Fo6dN7NhA",
-			"key": "3w7EBYbWQfPUcoq1/WKtww"
+			"keyId": "0003f2a72d21efd159d45a3a74decd84",
+			"key": "df0ec40586d641f3d4728ab5fd62adc3"
 		},
 		{
 			"title": "Willow HD",
@@ -47,46 +47,6 @@
 			"url": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
 			"keyId": "ZlPAXkL8T6yPSdfL+ZSY/g",
 			"key": "O4jyz/Ov/vILJlyEC6/AzA"
-		},
-		{
-			"title": "TNT Sports 1",
-			"quality": "Multi",
-			"language": "English",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",
-			"url": "https://lamsom.co.uk/crichd/crichd.php?id=bbtsp1&e=.m3u8"
-		},
-		{
-			"title": "TNT Sports 2",
-			"quality": "Multi",
-			"language": "English",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg",
-			"url": "https://lamsom.co.uk/crichd/crichd.php?id=bbtsp2&e=.m3u8"
-		},
-		{
-			"title": "TNT Sports 3",
-			"quality": "Multi",
-			"language": "English",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://www.91-cdn.com/hub/wp-content/uploads/2022/11/Sports-18-how-to-add-subscribe.png",
-			"url": "https://lamsom.co.uk/crichd/crichd.php?id=bbtsp3&e=.m3u8"
-		},
-		{
-			"title": "TNT Sports 4",
-			"quality": "Multi",
-			"language": "English",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://www.91-cdn.com/hub/wp-content/uploads/2022/11/Sports-18-how-to-add-subscribe.png",
-			"url": "https://lamsom.co.uk/crichd/crichd.php?id=bbtsp4&e=.m3u8"
 		},
 		{
 			"title": "Sports 18 HD",
