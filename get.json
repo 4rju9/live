@@ -31,7 +31,7 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkWnrnGaMvMZqKpFtchhencB-9n5Hmvp9YzHLmnFIoIG-uR_3tRuyfUt8SkxfSca842Mg&usqp=CAU",
+			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/0a1e3d5f-de30-44fa-b96e-e39483a9e6de",
 			"url": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
 			"keyId": "ZlPAXkL8T6yPSdfL+ZSY/g",
 			"key": "O4jyz/Ov/vILJlyEC6/AzA"
@@ -49,33 +49,13 @@
 	],
 	"entertainment": [
 		{
-			"title": "Big Boss Live",
-			"quality": "Multi",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://www.koimoi.com/wp-content/new-galleries/2021/06/bigg-boss-15-to-go-on-air-for-six-months-001.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2105488/hd_akamai_iosmob_avc_24x7_bbhindi_day01/master.m3u8"
-		},
-		{
-			"title": "Temptation Island",
-			"quality": "Multi",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://temptationisland.in/wp-content/uploads/2023/11/the-temptation-channel.jpg",
-			"url": "https://prod-sports-hin-gm.jiocinema.com/hls/live/2106329/hd_akamai_iosmob_avc_temptationisland_day001/master.m3u8"
-		},
-		{
 			"title": "Sonic Nickelodeon",
 			"quality": "Multi",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://cdn.comedy.co.uk/images/library/comedies/300/c/channel_nickelodeon.jpg",
+			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/2b7b3763-07f1-4f65-a0ef-f70e21ae7c8e",
 			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
 		},
 		{
@@ -105,7 +85,7 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbOofnuHieE1UFab5BfOgERNhEpB7qcehqbw&usqp=CAU",
+			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/8b7e6d03-5479-45ed-9eb9-04cb846ba833",
 			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Channel.m3u8"
 		},
 		{
@@ -115,7 +95,7 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgWpukjpt5kKWFxWI0d-s_E8eZkgRzgHgTQ&usqp=CAU",
+			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/d7b280cd-7aba-47c6-a90e-eb16789f0b0e",
 			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Animal_Planet.m3u8"
 		}
 	],
