@@ -81,7 +81,7 @@
 		{
 			"title": "Discovery HD",
 			"quality": "Multi",
-			"language": "Hindi",
+			"language": "Multi",
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
@@ -91,7 +91,7 @@
 		{
 			"title": "Animal Planet",
 			"quality": "Multi",
-			"language": "Hindi",
+			"language": "Multi",
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
@@ -123,7 +123,7 @@
 		{
 			"title": "Bhojpuri Cinema",
 			"quality": "360p",
-			"language": "Hindi",
+			"language": "Bhojpuri",
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
@@ -133,7 +133,7 @@
 		{
 			"title": "Enter 10 Bangla",
 			"quality": "360p",
-			"language": "Hindi",
+			"language": "Bangali",
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
