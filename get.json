@@ -7,7 +7,7 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/3a01768b-f23c-49a0-816b-6a3e0497cccd",
+			"logo": "https://github.com/4rju9/live/assets/63835760/de58dbb4-3391-4d6c-8710-68fa4e9ce721",
 			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
 			"keyId": "ap5CBPP4V36/bnmzsYVz+A",
 			"key": "eMog1vi+kE7sYcDprKPFEQ"
@@ -19,7 +19,7 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/cc681c3c-52d4-4d0a-af77-c88fa1b3c576",
+			"logo": "https://github.com/4rju9/live/assets/63835760/905a981b-5216-4c98-b8d3-8d45b62eaaca",
 			"url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_251/output/manifest.mpd",
 			"keyId": "vF6pUmmFU9qrqFeHAB1gkw",
 			"key": "UofZ+COiRv2w7P7jjwCpKg"
@@ -31,7 +31,7 @@
 			"mediaType": "Mpd",
 			"hasContent": "false",
 			"hasDrm": "true",
-			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/0a1e3d5f-de30-44fa-b96e-e39483a9e6de",
+			"logo": "https://github.com/4rju9/live/assets/63835760/c246051b-d0d2-4280-b2ae-1542d709ac35",
 			"url": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
 			"keyId": "ZlPAXkL8T6yPSdfL+ZSY/g",
 			"key": "O4jyz/Ov/vILJlyEC6/AzA"
@@ -55,7 +55,7 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/79fc4092-5bf3-4780-b464-f2a62a60c1a7",
+			"logo": "https://github.com/4rju9/live/assets/63835760/54f1a322-9255-4411-8662-1ef4de40d5b9",
 			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
 		},
 		{
@@ -85,7 +85,7 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/8b7e6d03-5479-45ed-9eb9-04cb846ba833",
+			"logo": "https://github.com/4rju9/live/assets/63835760/67f30deb-b5ff-472e-a915-bcf1e9d90271",
 			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Discovery_Channel.m3u8"
 		},
 		{
@@ -95,7 +95,7 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://github.com/crichdlive/crichdlive.github.io/assets/63835760/00dce413-6822-44cb-8edc-a1973962c4d1",
+			"logo": "https://github.com/4rju9/live/assets/63835760/ce19f9a3-2f1d-4dde-8206-4d0c26990bb9",
 			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Animal_Planet.m3u8"
 		}
 	],
