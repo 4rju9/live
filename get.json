@@ -59,6 +59,16 @@
 			"url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
 		},
 		{
+			"title": "Yamato Animations",
+			"quality": "Multi",
+			"language": "Multi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://github.com/4rju9/live/assets/63835760/715507f4-6c32-46ee-b463-73e3186bf30c",
+			"url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8"
+		},
+		{
 			"title": "Colors HD",
 			"quality": "240p",
 			"language": "Hindi",
