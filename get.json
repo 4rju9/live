@@ -49,6 +49,16 @@
 			"url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8"
 		},
 		{
+			"title": "Kiddo TV",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6wWCQa2Gn3_f1z9u5UIXWgM3Bn_cHv6L0g&usqp=CAU",
+			"url": "https://www.yupptv.com/online-tv/kiddo/live"
+		},
+		{
 			"title": "Discovery HD",
 			"quality": "Multi",
 			"language": "Multi",
@@ -99,8 +109,38 @@
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
-			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_6wWCQa2Gn3_f1z9u5UIXWgM3Bn_cHv6L0g&usqp=CAU",
+			"logo": "https://github.com/4rju9/live/assets/63835760/72750f73-c58a-4aa8-a2e3-7dba218b5b45",
 			"url": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8"
+		},
+		{
+			"title": "9X Jhakaas",
+			"quality": "Multi",
+			"language": "Punjabi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://github.com/4rju9/live/assets/63835760/b9812e1d-f6e0-49ff-b93e-4f43b16be361",
+			"url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8"
+		},
+		{
+			"title": "9X Tashan",
+			"quality": "Multi",
+			"language": "Punjabi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://github.com/4rju9/live/assets/63835760/9bc3a63e-dc39-4f38-8d7e-8d19481977a9",
+			"url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8"
+		},
+		{
+			"title": "9X Jalwa",
+			"quality": "Multi",
+			"language": "Punjabi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://github.com/4rju9/live/assets/63835760/bc4d37a4-b884-47aa-a0b2-d3a7ce4b8fcd",
+			"url": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
 		}
 	],
 	"news": [
