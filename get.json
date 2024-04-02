@@ -35,6 +35,16 @@
 			"url": "https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
 			"keyId": "ZlPAXkL8T6yPSdfL+ZSY/g",
 			"key": "O4jyz/Ov/vILJlyEC6/AzA"
+		},
+		{
+			"title": "Sports 18",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/sports18_khel_tray-1693931658589.jpg",
+			"url": "https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8"
 		}
 	],
 	"entertainment": [
