@@ -326,7 +326,7 @@
 		},
 		{
 			"title": "Hindi Khabar",
-			"quality": "Multi",
+			"quality": 360p",
 			"language": "Hindi",
 			"mediaType": "m3u8",
 			"hasContent": "false",
