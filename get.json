@@ -49,26 +49,6 @@
 	],
 	"entertainment": [
 		{
-			"title": "Yamato Animations",
-			"quality": "Multi",
-			"language": "Multi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://github.com/4rju9/live/assets/63835760/fe952534-91ba-4aad-b82c-ef8e73976fcb",
-			"url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8"
-		},
-		{
-			"title": "Kiddo TV",
-			"quality": "Multi",
-			"language": "English",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://github.com/4rju9/live/assets/63835760/0eeb1582-0aa6-4688-b761-9ad09a27175f",
-			"url": "https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?ads.channel=6471&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728552022~exp=1728573622~acl=!*/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_83_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_83_-1~hmac=7bf7d0ad002a6fbe6925d5db0cbb2e68ad4a00ed3017a01d0cc1a4150ede70a9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Kiddo&ads.language=ENG&ads.user=0"
-		},
-		{
 			"title": "Discovery HD",
 			"quality": "Multi",
 			"language": "Multi",
@@ -87,9 +67,109 @@
 			"hasDrm": "false",
 			"logo": "https://github.com/4rju9/live/assets/63835760/ce19f9a3-2f1d-4dde-8206-4d0c26990bb9",
 			"url": "https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Animal_Planet.m3u8"
+		},
+		{
+			"title": "Yamato Animations",
+			"quality": "Multi",
+			"language": "Multi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://github.com/4rju9/live/assets/63835760/fe952534-91ba-4aad-b82c-ef8e73976fcb",
+			"url": "https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8"
+		},
+		{
+			"title": "Sonic Tv",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://images.squarespace-cdn.com/content/v1/63becd303aee236fcf26d494/1673448832400-1HDU45UGPPEXX6T8YLJQ/Sonic_Dynamite_Poster.jpg?format=1500w",
+			"url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8?includeAllStreams=0&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=siYANTQxuHwtbsjy1aXV"
+		},
+		{
+			"title": "TG Juniors",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt5jot95950X8iMkYfJB5RcewmXgE1Bw4VwruEbJy7kiBNbbwQiFc0rjRga_wPxNLm_v4&usqp=CAU",
+			"url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f123330eca6a20040b328e8.m3u8?includeAllStreams=0&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=ppyNxvvixxd_kBkPx8rZ"
+		},
+		{
+			"title": "Cartoon Classics",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://m.media-amazon.com/images/S/pv-target-images/f0bdd60bec861b5473270cc0b72e58b72e313f738554402853dca990ea616d5f._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1466,847,375,117_.jpg",
+			"url": "https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8?ads.channel=6591&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728552204~exp=1728573804~acl=!*/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_48_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_48_-1~hmac=1213dd2e6708a082de7c5d719e3fe599d9c478d584d1d3d0bdbe4c1558079b27&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=CartoonTVClassics&ads.language=ENG&ads.user=0"
+		},
+		{
+			"title": "Kidoodle Tv",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSq8QZBjve4NO06NwuUgrJG6aTGjKdujf6qQ&s",
+			"url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8?includeAllStreams=0&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wdMD9Bz7wMsHghYQKAHU"
+		},
+		{
+			"title": "Kiddo TV",
+			"quality": "Multi",
+			"language": "English",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://github.com/4rju9/live/assets/63835760/0eeb1582-0aa6-4688-b761-9ad09a27175f",
+			"url": "https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/manifest.m3u8?ads.channel=6471&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728552022~exp=1728573622~acl=!*/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_83_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_83_-1~hmac=7bf7d0ad002a6fbe6925d5db0cbb2e68ad4a00ed3017a01d0cc1a4150ede70a9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Kiddo&ads.language=ENG&ads.user=0"
+		},
+		{
+			"title": "Nazara",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://i.ytimg.com/vi/tYQrXlX_ywc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgTih_MA8=&rs=AOn4CLDj8BwwJ0Rl8eLQ88MF24OrI7QMBw",
+			"url": "https://epiconvh.s.llnwi.net/live/nazara/master.m3u8?s=1728553816&e=1729849816&h=a7f867f18f10da7137d9c8ad3dcd1a1e&hls_force_no_caption_tag=true&filter=(type!=%22audio%22||systemBitrate%3E128000)"
+		},
+		{
+			"title": "Rongeen Tv",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://www.fredflix.xyz/upload/Web%20best%20logo/rongeen-tv.jpg",
+			"url": "https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8"
 		}
 	],
 	"movies": [
+		{
+			"title": "Shemaroo Bollywood",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://mms.businesswire.com/media/20220816005528/en/1545398/22/shemaroo.jpg",
+			"url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8?includeAllStreams=0&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Zd7PNPDpB5728txQy_ZC"
+		},
+		{
+			"title": "Bollywood 4u",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://exchange4media.gumlet.io/news-photo/123954-big8.jpg",
+			"url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?ads.channel=6604&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728551450~exp=1728573050~acl=!*/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_47_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_47_-1~hmac=0896a14a0af5abf9cc1410f8840f2b3be6f32a3329ca3d3fc954b5909b0d397e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Bollywood4U&ads.language=HIN&ads.user=0"
+		},
 		{
 			"title": "Bhojpuri Cinema",
 			"quality": "360p",
@@ -151,6 +231,46 @@
 			"hasDrm": "false",
 			"logo": "https://github.com/4rju9/live/assets/63835760/bc4d37a4-b884-47aa-a0b2-d3a7ce4b8fcd",
 			"url": "https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8"
+		},
+		{
+			"title": "Haryanvi Hits",
+			"quality": "Multi",
+			"language": "Haryanvi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://scontent.fbek1-4.fna.fbcdn.net/v/t39.30808-6/326921491_888183515731407_2309849597301984856_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=21b8pdeSTOsQ7kNvgHxMbVJ&_nc_ht=scontent.fbek1-4.fna&_nc_gid=AL_pIg3CpXGZMrzOxB7LwPy&oh=00_AYAKzNMogQSwzqugkJUaESF6MguOkX_wRz3z0eLAztDARQ&oe=670D6E35",
+			"url": "https://yuppnimresmum.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?ads.channel=6374&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728551745~exp=1728573345~acl=!*/28072023/smil:haryanvihits.smil/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_192_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_192_-1~hmac=51c1eed2841c90defc49b20c63390ffbbba5dc0ba5fc02d23c9b146a330956c3&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=HaryanviHits&ads.language=HIN&ads.user=0"
+		},
+		{
+			"title": "Mastiii",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dac9fa101578521.5f21d577e0ed7.jpg",
+			"url": "https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8?ads.channel=5229&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728551586~exp=1728573186~acl=!*/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_23_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_23_-1~hmac=a5613ade63e7f369d0adc8c9096c7df233fc8dd3004cbf4b8f7a3811407e519c&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=MUSIC&ads.channel_name=Mastiii&ads.language=HIN&ads.user=0"
+		},
+		{
+			"title": "ShowBox",
+			"quality": "Multi",
+			"language": "Multi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://i.ytimg.com/vi/gG_wUS6IIOc/maxresdefault.jpg",
+			"url": "https://epiconvh.s.llnwi.net/live/showbox/master.m3u8?s=1728553857&e=1729849857&h=410c257468eb2d112f5280259f26964e&hls_force_no_caption_tag=true&filter=(type!=%22audio%22||systemBitrate%3E128000)"
+		},
+		{
+			"title": "Zoom",
+			"quality": "Multi",
+			"language": "Multi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://blog.distro.tv/wp-content/uploads/2022/08/Blog-Covers-5.png",
+			"url": "https://d1g66oqspoyxao.cloudfront.net/master.m3u8"
 		}
 	],
 	"news": [
@@ -183,6 +303,36 @@
 			"hasDrm": "false",
 			"logo": "https://cdn.ndtv.com/common/images/ogndtv.png",
 			"url": "https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8"
+		},
+		{
+			"title": "Republic Bharat",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://i0.wp.com/www.opindia.com/wp-content/uploads/2022/03/r_logo_1024x1024.png?w=1920&ssl=1",
+			"url": "https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/main.m3u8?ads.channel=4923&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728552378~exp=1728573978~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_20_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_20_-1~hmac=26e9c99e094861340fa5e4663378f4c4955996a9e5837e7da11e0e46340b99e9&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=RepublicBharat&ads.language=HIN&ads.user=0"
+		},
+		{
+			"title": "TV9 Bharatvarsh",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://cdn.myportfolio.com/822c501a1f7e2b70f9df29f21633dffc/037cb243-64df-4639-bd24-e69e01cd3d55_rw_1920.jpg?h=147d0b24e40d329d24312deb7c1c62f2",
+			"url": "https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/main.m3u8?ads.channel=6377&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728552474~exp=1728574074~acl=!*/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-234604/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_34_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_34_-1~hmac=931e692a386ace6eb34df296812dab12839801788e3759fbbff543c696de4956&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=TV9Bharatvarsh&ads.language=HIN&ads.user=0"
+		},
+		{
+			"title": "Hindi Khabar",
+			"quality": "Multi",
+			"language": "Hindi",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://samachar4media.gumlet.io/60445-Hindi.jpg",
+			"url": "https://yuppftalive.akamaized.net/080823/hindikhabar/playlist.m3u8?ads.channel=6425&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728552535~exp=1728574135~acl=!*/080823/hindikhabar/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_160_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_160_-1~hmac=5dac8bac513aff8f553b74188b8320366696a61eb522fb2f61cdc7299d09cedd&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=NEWS&ads.channel_name=HindiKhabar&ads.language=HIN&ads.user=0"
 		}
 	]
 }
