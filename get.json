@@ -141,7 +141,7 @@
 		{
 			"title": "Rongeen Tv",
 			"quality": "Multi",
-			"language": "Hindi",
+			"language": "Bangali",
 			"mediaType": "m3u8",
 			"hasContent": "false",
 			"hasDrm": "false",
@@ -161,16 +161,6 @@
 			"url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62d1a58e520656fda09e609d.m3u8?includeAllStreams=0&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Zd7PNPDpB5728txQy_ZC"
 		},
 		{
-			"title": "Bollywood 4u",
-			"quality": "Multi",
-			"language": "Hindi",
-			"mediaType": "m3u8",
-			"hasContent": "false",
-			"hasDrm": "false",
-			"logo": "https://exchange4media.gumlet.io/news-photo/123954-big8.jpg",
-			"url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?ads.channel=6604&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728551450~exp=1728573050~acl=!*/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_47_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_47_-1~hmac=0896a14a0af5abf9cc1410f8840f2b3be6f32a3329ca3d3fc954b5909b0d397e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Bollywood4U&ads.language=HIN&ads.user=0"
-		},
-		{
 			"title": "Bhojpuri Cinema",
 			"quality": "360p",
 			"language": "Bhojpuri",
@@ -179,6 +169,16 @@
 			"hasDrm": "false",
 			"logo": "data:image/png;base64,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",
 			"url": "https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_360p/chunks.m3u8"
+		},
+  {
+			"title": "Bollywood 4u",
+			"quality": "Multi",
+			"language": "Bangali",
+			"mediaType": "m3u8",
+			"hasContent": "false",
+			"hasDrm": "false",
+			"logo": "https://exchange4media.gumlet.io/news-photo/123954-big8.jpg",
+			"url": "https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8?ads.channel=6604&ads.content_custom_1_param=FAST&ads.user=2&ads.content_custom_3_param=YuppFastIndia&hdnts=st=1728551450~exp=1728573050~acl=!*/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/*!/payload/yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_47_-1/*~data=yupptvott_5_-1_b403087ecd3e48e0_IN_110.226.197.87_yuppfast_2_channel_47_-1~hmac=0896a14a0af5abf9cc1410f8840f2b3be6f32a3329ca3d3fc954b5909b0d397e&ads.network_name=yuppfast&ads.app_store_url=&ads.app_bundle=&ads.content_livestream=1&ads.content_genre=ENTERTAINMENT&ads.channel_name=Bollywood4U&ads.language=HIN&ads.user=0"
 		},
 		{
 			"title": "Enter 10 Bangla",
